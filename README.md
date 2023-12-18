@@ -1,4 +1,4 @@
-## Admin Microservice Catalog em java
+## Admin Microservice Catalog with java
 
  - API REST - Spring Boot
     - Web
@@ -11,7 +11,7 @@
     - JAVA (Lombok, Dozer, Mysql)
  - Test unit: junit
  - Message: RabbitMQ
- - Auth via keycloack
+ - Authentication via keycloack
  - Integration with GCS
  - Docker
  
